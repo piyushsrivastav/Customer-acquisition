@@ -27,3 +27,7 @@ foodmart [ for your reference only ]
 
 ### PROJECT OBJECTIVE:
 Design an ML-based algorithm for predicting the cost of the media in acquiring customers.
+
+## Power BI Dashboard and intuitions from data
+![image](https://user-images.githubusercontent.com/92087972/214918938-61d1b66c-4ec3-4921-ae51-4e9aff5215aa.png)
+
